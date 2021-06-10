@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulherme Bohnstedt</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Bohnstedt</h1>
 <h3 align="center">Front-End Developer and challenge enthusiast from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
